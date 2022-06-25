@@ -3,7 +3,7 @@
   "title": "Pathbuilder 2e Import",
   "description": "This module allows players and GMs to import player characters built in Pathbuilder 2e",
   "author": "slate",
-  "version": "0.7.5",
+  "version": "0.8.0",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.9",
   "esmodules": [
@@ -12,11 +12,11 @@
   "styles": [],
   "packs": [],
   "license": "MIT",
-  "url": "https://github.com/zarmstrong/foundry-pathbuilder2e-import",
-  "manifest": "https://raw.githubusercontent.com/zarmstrong/foundry-pathbuilder2e-import/master/module.json",
-  "download": "https://github.com/zarmstrong/foundry-pathbuilder2e-import/releases/download/foundry-pathbuilder2e-import-0.7.5/foundry-pathbuilder2e-import-0.7.5.zip",
-  "changelog": "https://github.com/zarmstrong/foundry-pathbuilder2e-import/blob/master/CHANGELOG.md",
-  "bugs": "https://github.com/zarmstrong/herovau.lt-foundry/issues",
+  "url": "https://github.com/grimblenz/foundry-pathbuilder2e-import",
+  "manifest": "https://raw.githubusercontent.com/zarmstrong/foundry-pathbuilder2e-import/0.8-final/module.json",
+  "download": "https://github.com/grimblenz/foundry-pathbuilder2e-import/releases/download/foundry-pathbuilder2e-import-0.8.0/foundry-pathbuilder2e-import-0.8.0.zip",
+  "changelog": "https://github.com/grimblenz/foundry-pathbuilder2e-import/blob/0.8-final/CHANGELOG.md",
+  "bugs": "https://github.com/grimblenz/herovau.lt-foundry/issues",
   "flags": {
     "allowBugReporter": true
   }
